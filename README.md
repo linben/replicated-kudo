@@ -1,3 +1,3 @@
 # replicated-kudo
 
-manifests for installing KUDO controller
+replicated manifests for installing KUDO controller
